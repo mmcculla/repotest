@@ -1,4 +1,0 @@
-This is a new file that was created entirely from the windows CLI using 
-Nano
-Will push to GitHub
-New Comments under this line
